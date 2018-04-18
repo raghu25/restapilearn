@@ -1,1 +1,1 @@
-This program is a flask REST api representing items in a store. Has functionality to store resources to Database SQLAlchemy registration and authentication. 
+This program is a flask REST api representing items in a store. Has functionality to store resources to Database SQLAlchemy. Includes registration and authentication. 
